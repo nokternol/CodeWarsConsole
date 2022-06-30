@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32414.318
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWars.Console", "CodeWars.Console.csproj", "{0284217C-5761-4862-83B1-977886AB6DC6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWars.Console", "CodeWars.Console\CodeWars.Console.csproj", "{0284217C-5761-4862-83B1-977886AB6DC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWars.Kata.Tests", "..\CodeWarsConsoleTests\CodeWars.Kata.Tests.csproj", "{830597D1-27EA-4D13-BC3F-FAE8F5FE5B8A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWars.Kata.Tests", "CodeWars.Kata.Tests\CodeWars.Kata.Tests.csproj", "{830597D1-27EA-4D13-BC3F-FAE8F5FE5B8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWars.Benchmarks", "..\CodeWars.Benchmarks\CodeWars.Benchmarks.csproj", "{C203D1D5-E4A5-448F-A2EC-A02536928798}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWars.Benchmarks", "CodeWars.Benchmarks\CodeWars.Benchmarks.csproj", "{C203D1D5-E4A5-448F-A2EC-A02536928798}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWars.Kata", "..\CodeWars.Kata\CodeWars.Kata.csproj", "{977B3228-0F77-4F3B-902F-DCE4F6EC99DF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWars.Kata", "CodeWars.Kata\CodeWars.Kata.csproj", "{977B3228-0F77-4F3B-902F-DCE4F6EC99DF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
